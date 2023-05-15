@@ -8,7 +8,7 @@ This template already included
 3. https://github.com/api7/lua-resty-ipmatcher
 4. https://github.com/bungle/lua-resty-template
 
-Debian installtion
+Debian installation
 > https://openresty.org/en/linux-packages.html#debian
 > 
 > wget https://github.com/api7/lua-resty-radixtree/archive/refs/heads/master.zip
